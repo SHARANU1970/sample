@@ -1,4 +1,5 @@
-#nested for loop
+#nested for loop it is applicable to all
+#to all
 for i in range(1,10):
       for j in  range(1,10):
 		print(i*j,end= " ")
